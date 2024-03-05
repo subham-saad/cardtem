@@ -1,0 +1,36 @@
+.card{
+    
+    
+    @media (max-width: 36em) {
+        width: 500;
+       }
+  
+    @media (max-width: 48em) {
+        width: 400;
+    }
+
+    @media (min-width: 62em) {
+        width: 500;
+    }
+
+    @media (min-width: 75em) {
+        width: 500;
+    }
+    @media (min-width: 88em) {
+        width: 500;
+    }
+  }
+
+  .gree{
+    /* background: #00cea8;
+    background: linear-gradient(90.13deg, #00cea8 1.9%, #49b98c 97.5%);
+    background: -webkit-linear-gradient(-90.13deg, #00cea8 1.9%, #bf61ff 97.5%); */
+    padding: 1;
+    box-shadow: blue;
+    border-radius: 2px;
+    border-width: 2 solid  #7f33b1 ;
+    transform-style: preserve-3d;
+    transform: rotateX(0) rotateY(0);
+    animation-duration: 2;
+  }
+  
