@@ -1,4 +1,4 @@
-// File: X:\cardtem\app\layout.tsx
+// File: X:\cardtem\app\layout.jsx
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
